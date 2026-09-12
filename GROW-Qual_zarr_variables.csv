@@ -1,0 +1,144 @@
+﻿variable,category,units,description
+cropland_irrigated_fraction,anthroposphere,-,Fraction of irrigated cropland
+cropland_rainfed_fraction,anthroposphere,-,Fraction of rainfed cropland
+forests_natural_vegetation_fraction,anthroposphere,-,Fraction of forests and natural vegetation
+groundwaterscapes_ID_class,anthroposphere,-,Groundwaterscapes
+main_landuse_class,anthroposphere,-,Main land use
+pastures_fraction,anthroposphere,-,Fraction of pastures
+urban_area_fraction,anthroposphere,-,Fraction of urban areas
+withdrawal_domestic_m3_year-1,anthroposphere,m³/year,Total water withdrawal for domestic use
+withdrawal_industrial_m3_year-1,anthroposphere,m³/year,Total water withdrawal for industrial use
+actual_evapotranspiration_mm_year-1,atmosphere,mm/year,Actual Evapotranspiration
+air_temperature_°C,atmosphere,°C,Air temperature
+days_with_snow_cover_average_days_year-1,atmosphere,-,Average days per year with snow cover
+days_with_snow_cover_days_year-1,atmosphere,days/year,Days per year with snow cover
+hydrobelt_class,atmosphere,-,Hydrobelt
+interception_mm_year-1,atmosphere,mm/year,Interception loss
+koeppen_geiger_class,atmosphere,-,Koeppen-Geiger classification
+lai_high_vegetation_ratio,atmosphere,-,Leaf area index of high vegetation
+lai_low_vegetation_ratio,atmosphere,-,Leaf area index of low vegetation
+potential_evapotranspiration_era5_mm_year-1,atmosphere,mm/year,Potential Evapo-transpiration from ERA5
+potential_evapotranspiration_gleam_mm_year-1,atmosphere,mm/year,Potential Evapo-transpiration from GLEAM
+precipitation_gpcc_mm_year-1,atmosphere,mm/year,Precipitation from GPCC
+precipitation_mswep_mm_year-1,atmosphere,mm/year,Precipitation from MSWEP
+snow_depth_m,atmosphere,m,Snow depth
+groundwater_dependent_ecosystems_class,biosphere,days/year,Groundwater dependent ecosystems
+ndvi_ratio,biosphere,-,NDVI
+aquifer_type_class,geosphere,-,Aquifer type
+ground_elevation_merit_m_asl,geosphere,m,Ground elevation
+permeability_0-100_m_m-2,geosphere,,Permeability for 0-100 m depth
+rock_type_0-100_m_class,geosphere,-,Rock type
+soil_saturated_conductivity_0-30_cm_cm_d-1,geosphere,-,Saturated hydraulic conductivity of topsoil (0-30 cm)
+soil_saturated_conductivity_30-200_cm_cm_d-1,geosphere,cm/day,Saturated hydraulic conductivity of subsoil (30-200 cm)
+soil_texture_0-30_cm_class,geosphere,-,Soil texture class in topsoil (0-30 cm)
+soil_texture_30-200_cm_class,geosphere,-,Soil texture class in subsoil (30-200 cm)
+topographic_slope_degree,geosphere,°,Topographic slope
+total_porosity_0-100_m_fraction,geosphere,m²,Total porosity for 0-100 m depth
+glacier_cover_fraction,hydroatlas,m−1,Glacier cover in surface catchment
+permafrost_cover_fraction,hydroatlas,-,Permafrost cover in surface catchment
+distance_perennial_streams_m,hydrosphere,cm/day,Distance between perennial streams
+drainage_density_m-1,hydrosphere,m,Drainage density
+country_name,metadata,unique_id,country name
+ggmn_id,metadata,unique_id,ggmn groundwater quantity monitoring station unique identifier
+ggmn_lat,metadata,decimal_degrees,ggmn groundwater quantity monitoring station latitude
+ggmn_lon,metadata,decimal_degrees,ggmn groundwater quantity monitoring station longitude
+gwms_id,metadata,unique_id,groundwater quality monitoring station unique identifier
+gwms_lat,metadata,decimal_degrees,latitude of groundwater quality monitoring station
+gwms_lon,metadata,decimal_degrees,longitude of groundwater quality monitoring station
+hydrobasin_level12,metadata,unique_id,hydrobasin at level 12
+time,metadata,day,day
+Alkalinity,water_quality,mg/l,Alkalinity
+Amoxicillin,water_quality,ug/l,Amoxicillin
+As-Dis,water_quality,ug/l,Arsenic - Dissolved
+As-Tot,water_quality,ug/l,Arsenic - Total
+Atenolol,water_quality,ug/l,Atenolol
+Atrazine,water_quality,ug/l,Atrazine
+Benzene,water_quality,ug/l,Benzene
+BOD5,water_quality,mg/l,Biochemical Oxygen Demand - 5 days
+Ca-Dis,water_quality,mg/l,Calcium - Dissolved
+Caffeine,water_quality,ug/l,Caffeine
+Carbamazepine,water_quality,ug/l,Carbamazepine
+Ca-Tot,water_quality,mg/l,Calcium - Total
+Cd-Dis,water_quality,ug/l,Cadmium - Dissolved
+Cd-Tot,water_quality,ug/l,Cadmium - Total
+Cl-Dis,water_quality,mg/l,Chloride - Dissolved
+Cl-Tot,water_quality,mg/l,Chloride - Total
+COD,water_quality,mg/l,Chemical Oxygen Demand
+Cr-Dis,water_quality,ug/l,Chromium - Dissolved
+Cr-Tot,water_quality,ug/l,Chromium - Total
+Cu-Dis,water_quality,ug/l,Copper - Dissolved
+Cu-Tot,water_quality,ug/l,Copper - Total
+DIC,water_quality,mg/l,Dissolved Inorganic Carbon
+Diclofenac,water_quality,ug/l,Diclofenac
+DIN,water_quality,mg/l,Dissolved Inorganic Nitrogen
+DIP,water_quality,mg/l,Dissolved Inorganic Phosphorus
+DKN,water_quality,mg/l,Dissolved Kjeldahl Nitrogen
+DO,water_quality,mg/l,Dissolved Oxygen
+DOC,water_quality,mg/l,Dissolved Organic Carbon
+DON,water_quality,mg/l,Dissolved Organic Nitrogen
+DOP,water_quality,mg/l,Dissolved Organic Phosphorus
+DOSAT,water_quality,%,Dissolved Oxygen Sat
+EC,water_quality,uS/cm,Electrical Conductivity
+EColi,water_quality,cfu/100ml,Escherichia Coli
+FC,water_quality,cfu/100ml,Fecal Coliform
+F-Dis,water_quality,mg/l,Fluoride - Dissolved
+Fe-Dis,water_quality,ug/l,Iron - Dissolved
+Fe-Tot,water_quality,ug/l,Iron - Total
+F-Tot,water_quality,mg/l,Fluoride - Total
+Hardness-Tot,water_quality,mg/l,Hardness - Total
+HCO3,water_quality,mg/l,Hydrogencarbonate
+Hg-Dis,water_quality,ug/l,Mercury - Dissolved
+Hg-Tot,water_quality,ug/l,Mercury - Total
+Ibuprofen,water_quality,ug/l,Ibuprofen
+K-Dis,water_quality,mg/l,Potassium - Dissolved
+K-Tot,water_quality,mg/l,Potassium - Total
+Metoprolol,water_quality,ug/l,Metoprolol
+Mg-Dis,water_quality,mg/l,Magnesium - Dissolved
+Mg-Tot,water_quality,mg/l,Magnesium - Total
+Mn-Dis,water_quality,ug/l,Manganese - Dissolved
+Mn-Tot,water_quality,ug/l,Manganese - Total
+Na-Dis,water_quality,mg/l,Sodium - Dissolved
+Naproxen,water_quality,ug/l,Naproxen
+Na-Tot,water_quality,mg/l,Sodium - Total
+NH3N,water_quality,mg/l,Ammonia-nitrogen
+NH4N,water_quality,mg/l,Ammonium nitrogen
+Ni-Dis,water_quality,ug/l,Nickel - Dissolved
+Ni-Tot,water_quality,ug/l,Nickel - Total
+NO2N,water_quality,mg/l,Nitrite
+NO3N,water_quality,mg/l,Nitrate
+Pb-Dis,water_quality,ug/l,Lead - Dissolved
+Pb-Tot,water_quality,ug/l,Lead - Total
+PFOA,water_quality,ug/l,PFOA
+PFOS,water_quality,ug/l,PFOS
+pH,water_quality,pH,pH
+Propranolol,water_quality,ug/l,Propranolol
+SO4-Dis,water_quality,mg/l,Sulfate - Dissolved
+SO4-Tot,water_quality,mg/l,Sulfate - Total
+Sulfamethoxazole,water_quality,ug/l,Sulfamethoxazole
+TAN,water_quality,mg/l,Total Ammonia Nitrogen
+TC,water_quality,mg/l,Total Carbon
+TDN,water_quality,mg/l,Total Dissolved Nitrogen
+TDP,water_quality,mg/l,Total Dissolved Phosphorus
+TDS,water_quality,mg/l,Total Dissolved Solids
+TEMP,water_quality,deg C,Water Temperature
+TIC,water_quality,mg/l,Total Inorganic Carbon
+TIN,water_quality,mg/l,Total Inorganic Nitrogen
+TIP,water_quality,mg/l,Total Inorganic Phosphorus
+TKN,water_quality,mg/l,Total Kjeldahl Nitrogen
+TN,water_quality,mg/l,Total Nitrogen
+TOC,water_quality,mg/l,Total Organic Carbon
+TON,water_quality,mg/l,Total Organic Nitrogen
+TOP,water_quality,mg/l,Total Organic Phosphorus
+TotColi,water_quality,cfu/100ml,Total Coliforms
+TP,water_quality,mg/l,Total Phosphurus
+TPP,water_quality,mg/l,Total Particulate Phosphurus
+Trichloroethene,water_quality,ug/l,Trichloroethene
+Triclosan,water_quality,ug/l,Triclosan
+TRP,water_quality,mg/l,Total Reactive Phosphorus
+TSS,water_quality,mg/l,Total Suspended Solids
+Turbidity,water_quality,NTU,Turbidity
+Zn-Dis,water_quality,ug/l,Zinc - Dissolved
+Zn-Tot,water_quality,ug/l,Zinc - Total
+groundwater_depth_from_ground_elevation_m,water_quantity,mg/l,Groundwater depth from ground elevation
+groundwater_depth_from_well_top_elevation_m,water_quantity,mg/l,Groundwater depth from the top of the well
+groundwater_water_level_elevation_m_asl,water_quantity,mg/l,Groundwater level above sea level
