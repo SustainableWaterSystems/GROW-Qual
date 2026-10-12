@@ -101,11 +101,11 @@ Na-Dis,water_quality,mg/l,Sodium - Dissolved
 Naproxen,water_quality,ug/l,Naproxen
 Na-Tot,water_quality,mg/l,Sodium - Total
 NH3N,water_quality,mg/l,Ammonia-nitrogen
-NH4N,water_quality,mg/l,Ammonium nitrogen
+NH4N,water_quality,mg/l,Ammonium-nitrogen
 Ni-Dis,water_quality,ug/l,Nickel - Dissolved
 Ni-Tot,water_quality,ug/l,Nickel - Total
-NO2N,water_quality,mg/l,Nitrite
-NO3N,water_quality,mg/l,Nitrate
+NO2N,water_quality,mg/l,Nitrite-nitrogen
+NO3N,water_quality,mg/l,Nitrate-nitrogen
 Pb-Dis,water_quality,ug/l,Lead - Dissolved
 Pb-Tot,water_quality,ug/l,Lead - Total
 PFOA,water_quality,ug/l,PFOA
